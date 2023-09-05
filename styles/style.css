@@ -161,6 +161,10 @@
   text-decoration: none;
 }
 
+.events__more:hover {
+  color: #1f69c9;
+}
+
 .events__cover {
   flex-grow: 1;
   flex-shrink: 0;
@@ -255,7 +259,7 @@
   color: white;
 }
 
-.staff__lists {
+.staff__cards {
   padding: 0;
   list-style-type: none;
   display: flex;
@@ -414,8 +418,8 @@
 }
 
 .footer__logo {
-  height: 57px;
-  width: 80px;
+  width: 57px;
+  height: 80px;
 }
 
 .footer__list {
